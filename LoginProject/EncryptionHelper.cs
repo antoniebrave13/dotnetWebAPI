@@ -18,9 +18,3 @@ namespace LoginProject.Helpers
         }
     }
 }
-using LoginProject.Helpers;
-
-namespace LoginProject.Controllers
-{
-    // Existing code...
-}

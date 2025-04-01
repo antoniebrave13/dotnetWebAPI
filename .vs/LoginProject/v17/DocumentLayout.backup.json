@@ -1,0 +1,136 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\antoniebrave\\source\\repos\\LoginProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{31F3773A-5A19-4EB9-8880-08E4FC590457}|LoginProject\\LoginProject.csproj|c:\\users\\antoniebrave\\source\\repos\\loginproject\\loginproject\\controllers\\userprofilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31F3773A-5A19-4EB9-8880-08E4FC590457}|LoginProject\\LoginProject.csproj|solutionrelative:loginproject\\controllers\\userprofilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31F3773A-5A19-4EB9-8880-08E4FC590457}|LoginProject\\LoginProject.csproj|C:\\Users\\antoniebrave\\source\\repos\\LoginProject\\loginproject\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31F3773A-5A19-4EB9-8880-08E4FC590457}|LoginProject\\LoginProject.csproj|solutionrelative:loginproject\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31F3773A-5A19-4EB9-8880-08E4FC590457}|LoginProject\\LoginProject.csproj|C:\\Users\\antoniebrave\\source\\repos\\LoginProject\\loginproject\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31F3773A-5A19-4EB9-8880-08E4FC590457}|LoginProject\\LoginProject.csproj|solutionrelative:loginproject\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31F3773A-5A19-4EB9-8880-08E4FC590457}|LoginProject\\LoginProject.csproj|c:\\users\\antoniebrave\\source\\repos\\loginproject\\loginproject\\controllers\\registrationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31F3773A-5A19-4EB9-8880-08E4FC590457}|LoginProject\\LoginProject.csproj|solutionrelative:loginproject\\controllers\\registrationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31F3773A-5A19-4EB9-8880-08E4FC590457}|LoginProject\\LoginProject.csproj|C:\\Users\\antoniebrave\\source\\repos\\LoginProject\\loginproject\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31F3773A-5A19-4EB9-8880-08E4FC590457}|LoginProject\\LoginProject.csproj|solutionrelative:loginproject\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31F3773A-5A19-4EB9-8880-08E4FC590457}|LoginProject\\LoginProject.csproj|C:\\Users\\antoniebrave\\source\\repos\\LoginProject\\loginproject\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{31F3773A-5A19-4EB9-8880-08E4FC590457}|LoginProject\\LoginProject.csproj|solutionrelative:loginproject\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31F3773A-5A19-4EB9-8880-08E4FC590457}|LoginProject\\LoginProject.csproj|C:\\Users\\antoniebrave\\source\\repos\\LoginProject\\loginproject\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31F3773A-5A19-4EB9-8880-08E4FC590457}|LoginProject\\LoginProject.csproj|solutionrelative:loginproject\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserProfileController.cs",
+              "DocumentMoniker": "C:\\Users\\antoniebrave\\source\\repos\\LoginProject\\LoginProject\\Controllers\\UserProfileController.cs",
+              "RelativeDocumentMoniker": "LoginProject\\Controllers\\UserProfileController.cs",
+              "ToolTip": "C:\\Users\\antoniebrave\\source\\repos\\LoginProject\\LoginProject\\Controllers\\UserProfileController.cs",
+              "RelativeToolTip": "LoginProject\\Controllers\\UserProfileController.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAiwDAAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T05:10:04.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\antoniebrave\\source\\repos\\LoginProject\\LoginProject\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "LoginProject\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\antoniebrave\\source\\repos\\LoginProject\\LoginProject\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "LoginProject\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAcwBIAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T02:04:52.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RegistrationController.cs",
+              "DocumentMoniker": "C:\\Users\\antoniebrave\\source\\repos\\LoginProject\\LoginProject\\Controllers\\RegistrationController.cs",
+              "RelativeDocumentMoniker": "LoginProject\\Controllers\\RegistrationController.cs",
+              "ToolTip": "C:\\Users\\antoniebrave\\source\\repos\\LoginProject\\LoginProject\\Controllers\\RegistrationController.cs",
+              "RelativeToolTip": "LoginProject\\Controllers\\RegistrationController.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAQwCsAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T14:58:21.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\antoniebrave\\source\\repos\\LoginProject\\LoginProject\\Views\\Web.config",
+              "RelativeDocumentMoniker": "LoginProject\\Views\\Web.config",
+              "ToolTip": "C:\\Users\\antoniebrave\\source\\repos\\LoginProject\\LoginProject\\Views\\Web.config",
+              "RelativeToolTip": "LoginProject\\Views\\Web.config",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACEAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-04-01T01:32:23.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "C:\\Users\\antoniebrave\\source\\repos\\LoginProject\\LoginProject\\Global.asax.cs",
+              "RelativeDocumentMoniker": "LoginProject\\Global.asax.cs",
+              "ToolTip": "C:\\Users\\antoniebrave\\source\\repos\\LoginProject\\LoginProject\\Global.asax.cs",
+              "RelativeToolTip": "LoginProject\\Global.asax.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T01:22:57.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WebApiConfig.cs",
+              "DocumentMoniker": "C:\\Users\\antoniebrave\\source\\repos\\LoginProject\\LoginProject\\App_Start\\WebApiConfig.cs",
+              "RelativeDocumentMoniker": "LoginProject\\App_Start\\WebApiConfig.cs",
+              "ToolTip": "C:\\Users\\antoniebrave\\source\\repos\\LoginProject\\LoginProject\\App_Start\\WebApiConfig.cs",
+              "RelativeToolTip": "LoginProject\\App_Start\\WebApiConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T01:05:27.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\antoniebrave\\source\\repos\\LoginProject\\LoginProject\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "LoginProject\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\antoniebrave\\source\\repos\\LoginProject\\LoginProject\\Models\\Employee.cs",
+              "RelativeToolTip": "LoginProject\\Models\\Employee.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAA2wBcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T00:26:02.365Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
