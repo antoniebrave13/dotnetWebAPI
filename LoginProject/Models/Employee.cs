@@ -16,6 +16,7 @@ namespace LoginProject.Models
         public string Lastname { get; set; }
         public string Email { get; set; }
         public DateTime Expiry { get; set; }
+        public byte[] Signature { get; set; }
 
     }
 
@@ -27,6 +28,7 @@ namespace LoginProject.Models
         public string Firstname { get; set; }
         public string Lastname { get; set; }
         public string Email { get; set; }
+        public byte[] Signature { get; set; }
 
     }
 }
